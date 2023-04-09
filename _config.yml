@@ -20,6 +20,7 @@ author: Anita Westfalewski
 ###############################################
 
 navbar-links:
+  About me: "aboutme"
   Excel: "excel"
   Video Analysis:
     - Rollerskating:
