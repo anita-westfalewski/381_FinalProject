@@ -10,7 +10,7 @@ As shown in the image, my nightly sleep durations fluctuate extremely throughout
 <p> Figure 2. Frequency of sleep states (deprived, minimal, adequate, and oversleeping) based on specified sleep durations. </p>
 
 ### Figure 2 Discussion
-Figure 2 shows the frequency of my sleep states over the past 3 months. The majority of my sleeps this year have been categorized as "minimal" meaning 51/90 days I only got between 4-7 hours a night. I experienced a less than ideal amount of "deprived" sleeps where I slept less than 4 hours for 11 nights. I got "adequate" sleep (7-9 hours) for 28 nights and never slept more than 9 hours this quarter.
+Figure 2 shows the frequency of my sleep states over the past 3 months. The majority of my sleeps this year have been categorized as "minimal" meaning 51/90 days I only got between 4-7 hours a night 😨. I experienced a less than ideal amount of "deprived" sleeps where I slept less than 4 hours for 11 nights 😵. I got "adequate" sleep (7-9 hours) for 28 nights and never slept more than 9 hours this quarter.
 
 ![meanmonthlysleep](https://user-images.githubusercontent.com/123666891/231238931-08f94fe4-9ecd-452f-9eb6-766e9bd85b28.jpg)
 <p> Figure 3. Means of sleep duration (hrs) for each month. </p>
