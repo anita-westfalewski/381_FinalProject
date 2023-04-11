@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: The cool things I do!
+subtitle:
 ---
 
-- I rollerskate
-- I snowboard
-- I coach kids sports programs!
+### Who I am...
+<p> Hello my name is Anita Westfalewski and I am a Kinesiology student in my last year at the University of Calgary. My favourite classes through my undergrad degree have been KNES 323 and Pediatric Exercise Science!. I am very passionate about working with kids and hope to pursue a career in pediatrics, OT, or chiropractics, but before that I am hoping to take a year off from studying and explore the world! Some things I do outside of academics is coach children's multi-sport programs and volunteer with neurodivergent kids. Some things I love are rollerskating, snowboarding, and sleeping (although I don't have a very healthy sleep schedule as seen in my analysis [here]) 
 
-### My story
+### My Future Aspirations
+  <p>
 
 change this to link to a video about me--To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
