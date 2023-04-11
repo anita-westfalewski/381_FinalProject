@@ -1,1 +1,1 @@
-<img align ="left" width="140" height="200" src="sleepdurationovertime.jpg">
+<img align ="left" width="600" height="300" src="sleepdurationovertime.jpg">
