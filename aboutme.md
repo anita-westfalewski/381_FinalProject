@@ -10,4 +10,4 @@ Hello my name is Anita Westfalewski and I am a Kinesiology student in my last ye
 ### Check these out!
 [<img align ="left" width="300" height="400" src="IMG_6142.jpeg">](snowboarding.md) 
 
-
+[<img align ="center" width="300" height="400" src="IMG_2414.jpg">](rollerskating.md)
