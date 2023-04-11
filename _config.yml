@@ -22,9 +22,9 @@ author: Anita Westfalewski
 navbar-links:
   About me: "aboutme"
   Excel: "excel"
-  Video Analysis:
-    - Rollerskating:
-    - CMJ:
+  Video Analysis: "videoanalysis.md"
+    - Rollerskating: "rollerskating.md"
+    - Snowboarding: "snowboarding.md"
 
 ################
 # --- Logo --- #
