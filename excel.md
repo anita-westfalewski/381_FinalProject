@@ -10,3 +10,4 @@
 
 <p> Figure 2. Frequency of sleep states (deprived, minimal, adequate, and oversleeping) based on specified sleep durations. </p>
 
+![sleepdurationovertime](https://user-images.githubusercontent.com/123666891/231236719-b06e235e-e805-4496-ae86-0b14cef4bf61.jpg)
